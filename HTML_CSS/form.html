@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <!--フォームの宣言-->
+    <form>
+        <label>氏名</label>
+        <!--テキストボックス-->
+        <input type="text" placeholder="名前を入力してください">
+        <br>
+
+        <label>年代</label>
+        <!--セレクトボックス　プルダウンで複数選べる-->
+        <select>
+            <!--セレクトボックスの中の選択肢の内容-->
+            <option>10代以下</option>
+            <option>20代</option>
+            <option>30代</option>
+            <option>40代以上</option>
+        </select>
+        <br>
+
+        <label>お問い合わせ内容</label>
+        <!--テキストエリア、長い文章を入力するためのもの-->
+        <textarea></textarea>
+        <br>
+
+        <!--ラジオボタン-->
+        <label>男性</label><input type="radio" name="gender">
+        <label>女性</label><input type="radio" name="gender">
+        <label>その他</label><input type="radio" name="gender">
+        <br>
+
+        <!--チェックボタン-->
+        <label>利用規約に同意する</label>
+        <input type="checkbox">
+        <br>
+        <br>
+
+        <input type="submit" volue="送信">
+        <input type="reset" value="リセット">
+
+    </form>
+</body>
+</html>

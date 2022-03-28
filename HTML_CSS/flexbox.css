@@ -1,0 +1,35 @@
+.flexbox-container{
+    display: flex;
+    height: 500px;
+    padding: 5px;
+    background-color: lightcyan;
+}
+.flexbox-item{
+    padding: 5px;
+    margin: 5px;
+    background-color: orange;
+}
+#item01{
+    align-self: flex-start;
+}
+#item02{
+    
+}
+#item03{
+    align-self: center;
+}
+#item04{
+    
+}
+#item05{
+    align-self: flex-end;
+}
+#item06{
+    
+}
+#item07{
+    align-self: baseline;
+}
+#item08{
+    
+}

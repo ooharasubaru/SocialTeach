@@ -1,0 +1,31 @@
+#first-div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+}
+#second-div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin:20px;
+    background-color: lightgreen;
+}
+#third-div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding:30px;
+    margin:30px;
+    background-color: lightgray;
+}
+#fourth-div{
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+    margin: 40px;
+    background-color: yellow;
+}

@@ -1,0 +1,18 @@
+#first-div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+#second-div{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+#third-div{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}

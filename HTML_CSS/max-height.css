@@ -1,0 +1,9 @@
+#one{
+    height: auto;
+    background-color: yellow;
+}
+#two{
+    height: auto;
+    max-height: 100px;
+    background-color: orange;
+}
